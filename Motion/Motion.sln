@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Motion", "Motion.vcxproj", "{421C0A1D-0F26-457E-9B7D-5477480CA80E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{421C0A1D-0F26-457E-9B7D-5477480CA80E}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{421C0A1D-0F26-457E-9B7D-5477480CA80E}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{421C0A1D-0F26-457E-9B7D-5477480CA80E}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{421C0A1D-0F26-457E-9B7D-5477480CA80E}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75B598B2-9B6C-49F6-A505-4FA5892E38E5}
+	EndGlobalSection
+EndGlobal
